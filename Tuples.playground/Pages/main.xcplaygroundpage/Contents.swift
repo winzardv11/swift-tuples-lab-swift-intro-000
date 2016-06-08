@@ -1,13 +1,12 @@
 /*: Outline
  
  
- # Iterating over a Dictionary
+ # Tuples
  
  ### Readings associated with this lab
  
- * [Dictionary](https://github.com/learn-co-curriculum/swift-dictionary-readme)
- * [Iterating over a Dictionary](https://github.com/learn-co-curriculum/swift-dictionaryIteration-readme)
- * [Dictionary - Methods](https://github.com/learn-co-curriculum/swift-dictionaryMethods-readme)
+ * [Tuples](https://github.com/learn-co-curriculum/swift-tuplesReading-readme)
+
  
  
 
