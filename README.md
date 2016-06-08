@@ -35,7 +35,7 @@
 ## Outline / Notes
 
 *  This could be anywhere between 10-15 questions.
-*  One of the questions towards the end can ask them to produce something like the following: Create a function that takes in an array of Int's and the function needs to return back the min and max in a tuple.
+*  One of the questions towards the end can ask them to produce something like the following: Create a function that takes in an array of Int's and the function needs to return back the min and max in a tuple. (Don't use the `minElement()` and `maxElement()` methods available on arrays).
 
 ```swift
 func minMaxFromArray(array: [Int]) -> (min: Int, max: Int) {
