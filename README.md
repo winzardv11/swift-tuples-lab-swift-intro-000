@@ -1,78 +1,22 @@
 # Tuples Lab
 
-<img src="http://viaimmobiler.com/wp-content/uploads/2016/05/john-candy-planes-trains-and-automobiles-del.jpg" alt="Drawing" style="width: 200px;"/>  
+![Drawing](http://i.imgur.com/oND2AZ7.jpg?1) 
 
 
-> Whoever said nothing is impossible obviously hasn't tried nailing Jell-O to a tree.
+> Whoever said nothing is impossible obviously hasn't tried nailing Jell-O to a tree. -[John Candy](https://en.wikipedia.org/wiki/John_Candy)
 
  
+## Instructions
 
-## Learning Objectives - The student should be able to..
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
+* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
+* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
 
-* Answer the questions in this lab and be challenged on their knowledge of tuples.
+![main](http://i.imgur.com/odAU8pd.png)
+* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
 
-## What the student can do at this point 
-
-* Create variables and constants
-* Is familiar with type annotations, type inference and string interpolation.
-* Can create functions with return types.
-* Is familiar with the String, Int, Double, and Bool type.
-* Can perform arithmetic operations on Int and Double.
-* Understands if and else clause statements.
-* Can create and use Arrays.
-* Can iterate over an Array using a for-in loop.
-* Can iterate over an Array calling enumerate().
-* Work with the following methods on arrays:
-	* append()
-	* insert(_:atIndex:)
-	* removeAtIndex()
-	* subscript syntax with arrays
-	* count
-	* isEmpty
-	* Optionals
-* Just learned about Tuples
-
-## Outline / Notes
-
-*  This could be anywhere between 10-15 questions.
-*  One of the questions towards the end can ask them to produce something like the following: Create a function that takes in an array of Int's and the function needs to return back the min and max in a tuple. (Don't use the `minElement()` and `maxElement()` methods available on arrays).
-
-```swift
-func minMaxFromArray(array: [Int]) -> (min: Int, max: Int) {
-    
-    var min = array[0]
-    var max = array[0]
-    
-    for number in array {
-        if number < min { min = number }
-        if number > max { max = number }
-    }
-    
-    return (min, max)
-}
-```
-
-* Another question could have them answer something like the following. I like the idea of encouraging them to try solving this problem with a switch statement:
-
-```swift
-func numberOfOnesAndTwosFromNumbers(numbers: [Int]) -> (ones: Int, twos: Int) {
-    
-    var numberOfOnes = 0
-    var numberOfTwos = 0
-    
-    for number in numbers {
-
-        switch number {
-        case 1: numberOfOnes += 1
-        case 2: numberOfTwos += 1
-        default: break
-        }
-        
-    }
-    
-    return (numberOfOnes, numberOfTwos)
-}
-```
+![render](http://i.imgur.com/vCIhFbZ.png)
 
 
 
