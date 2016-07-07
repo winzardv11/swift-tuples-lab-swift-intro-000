@@ -19,10 +19,18 @@
 
 
 
+
+
+
+
 /*: question2
  ### 2. Print out "<Name> is <Age> years old" using the tuple you created in Question 1.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -35,10 +43,18 @@
 
 
 
+
+
+
+
 /*: question4
  ### 4. Print out "Happy <Age> birthday, <Name>!" using the `person` variable.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -51,10 +67,17 @@
 
 
 
+
+
+
+
 /*: question6
  ### 6. Print out "<Name> is <Age> years old" for the `someone` variable you created in Question 5.
  */
 // write your code here
+
+
+
 
 
 
@@ -67,10 +90,17 @@
 
 
 
+
+
+
 /*:
  ### 8. Print out "Happy <Age> birthday, <Name>!" using the `someone` variable.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -83,13 +113,19 @@
 
 
 
+
+
+
+
 /*:
  ### 10. Can you change `human`'s age? Why or why not?
  */
 
 
 
-// Check out the solution branch to see a link here (in this same spot) that will take you to the answers to the above problems.
 
 
-// ❤️
+
+
+
+//: Look here on the solution branch for the solution link
