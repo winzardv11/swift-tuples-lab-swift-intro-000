@@ -128,4 +128,4 @@
 
 
 
-//: Look here on the solution branch for the solution link
+//: Check [here](https://github.com/learn-co-curriculum/swift-tuples-lab/blob/solution/Tuples.playground/Pages/solution.xcplaygroundpage/Contents.swift) for the solution.
